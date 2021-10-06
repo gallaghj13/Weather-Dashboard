@@ -21,5 +21,7 @@ The website has a search input and button that, when pressed, dynamically produc
 
 ## Links
 
-URL for deployed website: https://gallaghj13.github.io/Daily-Planner-App/ \
-Github Repository: https://github.com/gallaghj13/Daily-Planner-App
+URL for deployed website: https://gallaghj13.github.io/Weather-Dashboard/ \
+Github Repository: https://github.com/gallaghj13/Weather-Dashboard
+
+![alt-text](./assets/Daily-Weather-App.gif)
