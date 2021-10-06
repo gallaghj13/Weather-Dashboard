@@ -1,0 +1,14 @@
+header {
+    background-color: rgb(37, 37, 141);
+    color: white;
+    text-align: center;
+}
+
+.weatherCard {
+    background-color: rgb(31, 31, 71);
+    color: white;
+}
+
+#current-weather {
+    border: solid black 1px;
+}
