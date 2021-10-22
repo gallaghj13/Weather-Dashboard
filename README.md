@@ -8,6 +8,12 @@ The goal of this project was to produce an intuitive and user friendly weather a
 
 The website has a search input and button that, when pressed, dynamically produces the current weather, and a five day forecast. Searches are also stored as buttons underneath the search button, so the user can click and view their previous searches.
 
+Picture 1:
+![alt-text](./assets/WeatherAppStep1.png)
+
+Picture 2:
+![alt-text](./assets/WeatherAppStep2.png)
+
 ## Credits
 
 - Tutor: Aaron Centeno
@@ -18,6 +24,10 @@ The website has a search input and button that, when pressed, dynamically produc
 - Bootstrap
 - jQuery API Documentation
 - Open Weather Map API
+
+## License
+
+- MIT
 
 ## Links
 
